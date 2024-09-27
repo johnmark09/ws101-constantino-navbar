@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-constantino-navbar/static/css/main.04558b61.css",
+    "main.js": "/ws101-constantino-navbar/static/js/main.aa2f1872.js",
+    "index.html": "/ws101-constantino-navbar/index.html",
+    "main.04558b61.css.map": "/ws101-constantino-navbar/static/css/main.04558b61.css.map",
+    "main.aa2f1872.js.map": "/ws101-constantino-navbar/static/js/main.aa2f1872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04558b61.css",
+    "static/js/main.aa2f1872.js"
+  ]
+}
